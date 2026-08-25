@@ -1,5 +1,5 @@
 ## Django Framework Running Example
-Python Django app is built to show you a vey basic form of a blog application. It uses SQLite as a database.
+Python Django app is built to show you a very basic form of a blog application. It uses SQLite as a database.
 
 create virtual environment
 ```
